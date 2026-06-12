@@ -1,0 +1,6 @@
+{
+  "name": "Mafia Narrator Assistant",
+  "description": "A feature-rich companion tool for Mafia game moderators to manage players, assign roles, track night and day phases, log events, and run voting sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
